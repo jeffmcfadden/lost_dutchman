@@ -18,6 +18,7 @@ GEM
     grpc (1.65.2-arm64-darwin)
       google-protobuf (>= 3.25, < 5.0)
       googleapis-common-protos-types (~> 1.0)
+    grpc-tools (1.65.2)
     http (5.2.0)
       addressable (~> 2.8)
       base64 (~> 0.1)
@@ -42,6 +43,7 @@ PLATFORMS
 
 DEPENDENCIES
   grpc
+  grpc-tools
   http
   nokogiri
 
