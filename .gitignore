@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+
+pages.db
+word_pages_index.json
+lexicon.txt
+
+page_content/*
+page_meta/*
+sitemaps/*
+page_words/*
